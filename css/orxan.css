@@ -1,3 +1,7 @@
+.orxan{
+  background-color: #f9f9f9;
+}
+
 .rCont {
   width: 1376px; 
   margin: 0.6px;
@@ -17,9 +21,13 @@
 }
 .rism p img {
   width: 13px;
-  transform: translate(-7px, -14px);
+  transform: translate(74px, -37px);
 }
-
+.box2{
+  display: flex;
+  flex-direction: column;
+  align-items: start;
+}
 .rism .p1 {
   font-weight: bold;
   font-size: 30px;
@@ -27,6 +35,7 @@
 .rPict {
   display: flex;
   gap: 35px;
+  margin-top: 18px;
 }
 
 .rp2 {
@@ -51,6 +60,8 @@
   width: 211px;
   border-radius: 8px;
   height: 56px;
+  display: flex;
+  padding-top: 5px;
 }
 .rMail img {
   transform: translate(6px, 12px);
@@ -61,7 +72,7 @@
 }
 
 .rMail .sp1 {
-  padding-left: 45px;
+  padding-left: 18px;
   font-weight: bold;
 }
 
@@ -72,4 +83,13 @@
   border-radius: 10px;
   border: none;
   width: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.rBtn:focus{
+  outline: 0;
+}
+.rBtn i{
+  color:white;
 }
