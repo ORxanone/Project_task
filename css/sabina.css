@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+.sabina  {
+    font-family: 'Poppins';
+    font-style: normal;
+    width: 1350px;
+    height: 1000px;
+}
+
+.activities-container {
+    font-family: 'Poppins';
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.title1 {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    gap:1065px;
+    
+}
+
+.view-all {
+    width: 100px;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F6F4FF;
+    border-radius: 12px;
+    gap: 10px;
+}
+
+.view-all a {
+    text-decoration: none;
+    color: #5243C2;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+
+
+.about-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    gap: 51spx;
+
+}
+.about-text h2 {
+    font-weight: 600;
+    font-size: 32px;
+    color: #161414;
+}
+
+.about-text p {
+    width: 500px;
+    font-weight: 400;
+    font-size: 16px;
+    color: #5B5B5B;
+}
+
+.about-text a {
+    font-weight: 500;
+    font-size: 16px;
+    color: #5243C2;
+    text-decoration: none;
+}
+
+.read-more {
+    display: flex;
+    align-items: center;
+    gap: 7px;
+}
