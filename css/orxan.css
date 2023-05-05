@@ -1,0 +1,75 @@
+.rCont {
+  width: 1376px;
+  margin: 0.6px;
+  background-color: #f9f9f9;
+  padding-top: 20px;
+}
+.rism {
+  width: 426px;
+}
+
+.rAbout ul li {
+  list-style: none;
+}
+
+.rFooter {
+  display: flex;
+}
+.rism p img {
+  width: 13px;
+  transform: translate(-7px, -14px);
+}
+
+.rism .p1 {
+  font-weight: bold;
+  font-size: 30px;
+}
+.rPict {
+  display: flex;
+  gap: 35px;
+}
+
+.rp2 {
+  color: #5b5b5b;
+}
+
+.rAbout ul li:first-child {
+  font-weight: bold;
+  font-size: 21px;
+}
+.rAbout ul {
+  width: 162px;
+  line-height: 2;
+}
+.rSubs p {
+  font-size: 21px;
+  font-weight: bold;
+}
+
+.rMail {
+  background-color: #ffffff;
+  width: 211px;
+  border-radius: 8px;
+  height: 56px;
+}
+.rMail img {
+  transform: translate(6px, 12px);
+}
+.rMail .sp {
+  padding-left: 19px;
+  color: #5b5b5b85;
+}
+
+.rMail .sp1 {
+  padding-left: 45px;
+  font-weight: bold;
+}
+
+.rBtn {
+  transform: translate(225px, -56px);
+  height: 57px;
+  background: #7b61ff;
+  border-radius: 10px;
+  border: none;
+  width: 60px;
+}
