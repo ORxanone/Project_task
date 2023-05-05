@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Poppins:wght@600&family=Source+Sans+Pro&display=swap');
+
+.text {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+
+.section {
+    height: 600px !important;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.btn {
+    background-color: #7B61FF;
+}
